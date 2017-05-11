@@ -1,0 +1,12 @@
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\SIRSS.Domain.dll.config
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\SIRSS.Domain.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\SIRSS.Domain.pdb
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\WebActivatorEx.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\obj\Debug\SIRSS.Domain.csprojResolveAssemblyReference.cache
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\obj\Debug\SIRSS.Domain.dll
+C:\Users\mill\Desktop\GC_Project\SIRSS\SIRSS.Domain\obj\Debug\SIRSS.Domain.pdb
